@@ -1,2 +1,4 @@
 # odin-recipes
-Repo for the Recipes project in The Odin Project
+My attempt at the Recipes project in the scope of The Odin Project
+
+Skills learned:
